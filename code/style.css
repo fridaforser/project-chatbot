@@ -99,8 +99,8 @@ main {
 }
 
 #endBot {
-  width: 45%;
-  height: 85%;
+  width: 60%;
+  height: 90%;
   margin: auto;
 }
 
@@ -201,4 +201,8 @@ button:hover {
   p{
   font-size: 14px;
   }
+
+  /*#input-wrapper {
+    cover: 100%;
+  }*/
 }
